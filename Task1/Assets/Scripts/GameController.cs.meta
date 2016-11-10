@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d00a1bc579cfae4db579c64535fc21e
+timeCreated: 1478173032
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ballTemplate: {instanceID: 0}
+  - firstPlayerScore: {instanceID: 0}
+  - secondPlayerScore: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

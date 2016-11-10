@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b16abfb2937269d4883b000e962b168d
+timeCreated: 1478172919
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - WallSound: {fileID: 8300000, guid: 32c41381af2fbe342a66b247447aec23, type: 3}
+  - PaddleSound: {fileID: 8300000, guid: c0279279892bf3340b6316730d55f1a4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
